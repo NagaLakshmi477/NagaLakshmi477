@@ -1,1 +1,1 @@
-https://github.com/NagaLakshmi477/NagaLakshmi477.git
+https://github.com/NagaLakshmi477/NagaLakshmi477/blob/main/git_banner.png
