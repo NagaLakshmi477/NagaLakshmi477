@@ -18,11 +18,11 @@
 ## 👩‍💻 About Me
 
 ```yaml
-Name: Nagalakshmi H
-Role: DevOps Engineer
-Location: Bengaluru, India
-Education: B.Tech in Electronics and Communication Engineering (ECE) — SVIT College
-Focus: DevOps | Infrastructure Automation | Kubernetes | Docker | Jenkins | Git/GitHub | Terraform | Ansible | AWS | CI/CD Pipelines | Shell Scripting | Monitoring & Logging | Cloud Computing
+Name      : Nagalakshmi Hanumantha Reddy Gari
+Role      : DevOps Engineer
+Location  : Bangalore, India
+Education : B.Tech in ECE — SVIT College, Ananthapuramu
+Focus     : Infrastructure Automation | Kubernetes | CI/CD | Cloud
 ```
 
 > 🔧 I am passionate about working with DevOps tools and cloud technologies.  
