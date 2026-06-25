@@ -1,113 +1,161 @@
 <div align="center">
-  <img src="https://github.com/NagaLakshmi477/NagaLakshmi477/blob/main/git_banner.png" alt="GitHub Banner" width="800"/>
+
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Nagalakshmi+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Enthusiast;Automating+Everything+One+Pipeline+at+a+Time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Views & Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=NagaLakshmi477&color=FF6B35&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagalakshmi--h-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagalakshmi-h)
+[![GitHub](https://img.shields.io/badge/GitHub-NagaLakshmi477-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NagaLakshmi477)
+[![Email](https://img.shields.io/badge/Email-lakshmireddy7471%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshmireddy7471@gmail.com)
+
 </div>
 
-# 👋 Hi, I'm NagaLakshmi Hanumantha Reddy Gari
+---
 
-### 🚀 DevOps Engineer – @ HTC Global Services  
-DevOps • SRE • Cloud Engineer | Azure | AWS | CI/CD | Kubernetes | Terraform | Mentor
+## 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nagalakshmi-hanumantha-reddy-gari/)
-[![Gmail](https://img.shields.io/badge/Email-nagalakshmih71@gmail.com-red?logo=gmail&style=flat)](mailto:nagalakshmih71@gmail.com)
+```yaml
+Name: Nagalakshmi H
+Role: DevOps Engineer
+Location: Bengaluru, India
+Education: B.Tech in Electronics and Communication Engineering (ECE) — SVIT College
+Focus: DevOps | Infrastructure Automation | Kubernetes | Docker | Jenkins | Git/GitHub | Terraform | Ansible | AWS | CI/CD Pipelines | Shell Scripting | Monitoring & Logging | Cloud Computing
+```
+
+> 🔧 I am passionate about working with DevOps tools and cloud technologies.  
+> Currently focusing on **automating infrastructure** and **improving deployment processes**  
+> through **Kubernetes (K8s)** and **CI/CD pipelines** to build scalable, reliable solutions.
+
+🎯 **Career Goals:** DevOps Engineer · Cloud Engineer · AWS Engineer  
+🌱 **Currently Learning:** GitHub Actions  
+⚡ **Fun Fact:** My personality runs on CI/CD pipelines — push, test, and deploy! 🚀
 
 ---
 
-I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **3+ years of experience** in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring system reliability across AWS and Azure.
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🗃️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Featured Projects
 
-- **Cloud**: AWS, Azure, GAIA Cloud  
-- **OS**: Linux, Windows  
-- **CI/CD**: Azure DevOps, GitHub Actions, Jenkins  
-- **SCM**: GitHub, Bitbucket  
-- **IaC**: Terraform, Ansible  
-- **Containers**: Docker, Kubernetes  
-- **Security & Scanning**: IAM, RBAC, SonarQube, Azure Key Vault  
-- **Artifact Management**: Nexus, JFrog Artifactory  
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Prometheus, Grafana, CloudWatch, Dynatrace, Splunk
+### 🏗️ OpenERP Immigration — K8s CI/CD Automation
+> Designed and implemented an automated CI/CD pipeline for deploying containerized applications on Kubernetes. Managed cloud infrastructure on AWS and streamlined application deployment processes, resulting in improved release reliability, scalability, and reduced deployment time.
 
----
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🔧 What I Do
-
-- 🛠️ Build and manage cloud infrastructure using **Terraform** and **Ansible** for repeatable and secure provisioning  
-- ☁️ Operate services on **AWS**, **Azure**, and **GAIA Cloud** with **Kubernetes**, delivering secure and efficient deployments  
-- 🚀 Design CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **Jenkins**, improving release cycles  
-- 📃️ Maintain source control best practices with **GitHub** and **Bitbucket**  
-- 🤖 Automate operations and deployments with **Linux**, **Shell**, and **Python**  
-- 🧪 Ensure quality and compliance using **SonarQube** and secure secrets with **Vault** and **SSM Parameter Store**  
-- 📈 Enable full-stack monitoring and alerting using **Prometheus**, **CloudWatch**, and **Grafana**
+> 🔒 *Private Repository*
 
 ---
 
-### 💼 Career Snapshot
+### ⚙️ Intel OneBom — Linux Automation & Containerization
+> Managed and automated application deployment and server configuration across Linux environments. Developed shell scripts to streamline operational tasks, used Ansible for configuration management and automation, and leveraged Docker for containerization to improve consistency and deployment efficiency.
 
-- 🏢 **HTC Global Services** – *Software Engineer*  
-  Implemented infrastructure automation using Ansible with YAML-based playbooks, dynamic inventories, and role-based architecture.  
-  Integrated AWS services (EC2, Route53, SSM) and secured sensitive data using Vault and SSM Parameter Store.  
-  Optimized scalable deployments using variables, conditionals, parallel execution, and robust error handling.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📁 Notable Projects
-
-- 🔧 **AWS Infra Automation**: Provisioned EC2, Route53, and SSM via Ansible with dynamic inventory and secure Vault integration.  
-- 🚀 **CI/CD Pipeline (GitHub + Jenkins)**: Built Docker-based pipelines with SonarQube scanning and JFrog Artifactory deployment.  
-- ☁️ **Terraform AWS Modules**: Created modular infrastructure for VPC, EC2, RDS, and IAM with S3 backend and state locking.
+> 🔒 *Private Repository*
 
 ---
 
-### 📜 Certifications
+## 🏆 Achievements & Certifications
 
-- ✅ Microsoft Certified: Azure Fundamentals – **AZ-900** *(Completed)*  
-- ✅ Microsoft Certified: Data Engineering on Microsoft Azure – **DP-203** *(Completed)* 
-
----
-
-## ⚙️ Skills Showcase
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+| Badge | Certification | Status |
+|-------|--------------|--------|
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | **AZ-900** — Microsoft Azure Fundamentals | ✅ Certified |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | **DP-203** — Azure Data Engineer Associate | 📋 Completed |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagalakshmi477&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nagalakshmi477&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagalakshmi477&theme=dark&hide_border=false&layout=compact" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NagaLakshmi477&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FF6B35&icon_color=FF6B35&border_color=FF6B35"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagaLakshmi477&layout=compact&langs_count=8&theme=dark&title_color=FF6B35&border_color=FF6B35"/>
+
 </div>
-
----
-
-## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <!-- Updated to use GitHub Pages link so animation works -->
-  <img src="https://NagaLakshmi477.github.io/snake/github-contribution-grid-snake.svg" alt="snake animation" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NagaLakshmi477&theme=dark&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=FF6B35)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 🌱 Currently Learning
 
-I'm actively looking for challenging opportunities in **DevOps** and **SRE** roles.  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nagalakshmi-hanumantha-reddy-gari/) or [Email](mailto:nagalakshmih71@gmail.com).
+<div align="center">
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+> *Deepening expertise in workflow automation and advanced CI/CD patterns with GitHub Actions.*
+
+</div>
 
 ---
 
-Thanks for visiting my GitHub profile! 😊
+## 🤝 Open to Collaborate On
+
+```
+🔹 Open-source DevOps & Cloud projects
+🔹 Freelance infrastructure automation opportunities
+🔹 Research projects in cloud-native technologies
+🔹 Startup ideas around DevOps tooling & SRE practices
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagalakshmi-h)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaLakshmi477)
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmireddy7471@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Infrastructure as code, deployments as art."* 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
