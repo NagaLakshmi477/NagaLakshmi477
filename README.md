@@ -95,7 +95,7 @@ Focus     : Infrastructure Automation | Kubernetes | CI/CD | Cloud
 | Badge | Certification | Status |
 |-------|--------------|--------|
 | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | **AZ-900** — Microsoft Azure Fundamentals | ✅ Certified |
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | **DP-203** — Azure Data Engineer Associate | 📋 Completed |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | **DP-203** — Azure Data Engineer Associate | ✅ Certified  |
 
 ---
 
