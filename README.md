@@ -21,8 +21,8 @@
 Name      : Nagalakshmi Hanumantha Reddy Gari
 Role      : DevOps Engineer
 Location  : Bangalore, India
-Education : B.Tech in ECE — SVIT College, Ananthapuramu
-Focus     : Infrastructure Automation | Kubernetes | CI/CD | Cloud
+Education : B.Tech in ECE — SVIT College, Ananthapur
+
 ```
 
 > 🔧 I am passionate about working with DevOps tools and cloud technologies.  
